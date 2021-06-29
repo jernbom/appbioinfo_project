@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # PNG files
-.png
+*.png
